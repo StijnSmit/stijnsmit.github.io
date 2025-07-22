@@ -11,8 +11,6 @@ Surugu is my minimalist, iOS-native puzzle app that brings a modern user experie
 {% include elements/appstore-button.html link="https://apps.apple.com/us/app/surugue/id6746043324" style="primary" size="sm" %}
 
 
-
-
 Built entirely in **Swift with SwiftUI and SwiftData**, Surugu follows Apple’s latest Human Interface Guidelines and adapts seamlessly between light and dark mode. The UI includes smooth transitions and micro-animations that enhance the experience without getting in the way of focus.
 
 Rather than relying on endless auto-generated puzzles, Surugu serves **fun, handpicked puzzles** through a backend, updated weekly. The goal is quality over quantity: every puzzle feels purposeful, not repetitive.
@@ -30,6 +28,8 @@ Surugu is available now on the App Store
 
 ##
 
+<!--
 <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
 </p>
+-->
